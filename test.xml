@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Test2 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Tname>Dashi</Tname>
+  <Tpsw>123456</Tpsw>
+</Test2>
